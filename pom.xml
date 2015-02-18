@@ -15,15 +15,7 @@
 	</properties>
 
 	<dependencies>
-	  <!--  SCL 610 -->
-		
-		<dependency>
-        <groupId>org.springframework.security</groupId>
-        <artifactId>spring-security-core</artifactId>
-        <version>3.0.0</version>
-        </dependency>	
 
- <dependency>
 		<dependency>
 			<groupId>org.apache.struts</groupId>
 			<artifactId>struts2-core</artifactId>
